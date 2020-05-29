@@ -47,6 +47,25 @@ def addDay(filename):
 addDay("US_States")
 addDay("US")
 
+def countCountryCases(filename):
+    with open("csv_files/"+filename+".csv",'r', encoding='utf-8') as csvinput:
+        reader = csv.reader(csvinput)         
+        all = []
+        head = next(reader)
+        head.append('Increase in Cases')
+        all.append(head)
+        cases = 0
+        for row in reader:
+            if(int(row[1]) > cases):
+                cases = int(row[1]) - cases
+                row.append(cases)
+                cases = int(row[1])
+                all.append(row)
+        with open("csv_files/"+filename+".csv", 'w', encoding='utf-8') as csvoutput:
+            writer = csv.writer(csvoutput, lineterminator='\n')    
+            writer.writerows(all)
+
+countCountryCases("US")
 #creating Excel files
 def createExcel(filename):
     dataFrame = pnds.read_csv("csv_files/"+filename+".csv", encoding='utf-8')
