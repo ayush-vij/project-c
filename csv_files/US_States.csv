@@ -3889,7 +3889,7 @@ date,state,fips,cases,deaths,weekday
 2020-05-12,Michigan,26,47946,4674,Tuesday
 2020-05-12,Minnesota,27,12493,614,Tuesday
 2020-05-12,Mississippi,28,9908,457,Tuesday
-2020-05-12,Missouri,29,10124,530,Tuesday
+2020-05-12,Missouri,29,10124,528,Tuesday
 2020-05-12,Montana,30,461,16,Tuesday
 2020-05-12,Nebraska,31,8732,102,Tuesday
 2020-05-12,Nevada,32,6311,321,Tuesday
@@ -3944,7 +3944,7 @@ date,state,fips,cases,deaths,weekday
 2020-05-13,Michigan,26,48307,4714,Wednesday
 2020-05-13,Minnesota,27,12916,638,Wednesday
 2020-05-13,Mississippi,28,10090,465,Wednesday
-2020-05-13,Missouri,29,10369,550,Wednesday
+2020-05-13,Missouri,29,10369,548,Wednesday
 2020-05-13,Montana,30,462,16,Wednesday
 2020-05-13,Nebraska,31,9072,106,Wednesday
 2020-05-13,Nevada,32,6482,331,Wednesday
@@ -3999,7 +3999,7 @@ date,state,fips,cases,deaths,weekday
 2020-05-14,Michigan,26,49489,4787,Thursday
 2020-05-14,Minnesota,27,13443,672,Thursday
 2020-05-14,Mississippi,28,10483,480,Thursday
-2020-05-14,Missouri,29,10490,566,Thursday
+2020-05-14,Missouri,29,10490,564,Thursday
 2020-05-14,Montana,30,462,16,Thursday
 2020-05-14,Nebraska,31,9411,117,Thursday
 2020-05-14,Nevada,32,6604,339,Thursday
@@ -4054,7 +4054,7 @@ date,state,fips,cases,deaths,weekday
 2020-05-15,Michigan,26,49982,4825,Friday
 2020-05-15,Minnesota,27,14249,692,Friday
 2020-05-15,Mississippi,28,10801,493,Friday
-2020-05-15,Missouri,29,10567,581,Friday
+2020-05-15,Missouri,29,10567,579,Friday
 2020-05-15,Montana,30,466,16,Friday
 2020-05-15,Nebraska,31,9766,122,Friday
 2020-05-15,Nevada,32,6733,345,Friday
@@ -4109,7 +4109,7 @@ date,state,fips,cases,deaths,weekday
 2020-05-16,Michigan,26,50416,4880,Saturday
 2020-05-16,Minnesota,27,14978,709,Saturday
 2020-05-16,Mississippi,28,11123,510,Saturday
-2020-05-16,Missouri,29,10794,595,Saturday
+2020-05-16,Missouri,29,10794,593,Saturday
 2020-05-16,Montana,30,468,16,Saturday
 2020-05-16,Nebraska,31,10220,129,Saturday
 2020-05-16,Nevada,32,6810,349,Saturday
@@ -4164,7 +4164,7 @@ date,state,fips,cases,deaths,weekday
 2020-05-17,Michigan,26,51054,4891,Sunday
 2020-05-17,Minnesota,27,15677,731,Sunday
 2020-05-17,Mississippi,28,11296,521,Sunday
-2020-05-17,Missouri,29,11069,603,Sunday
+2020-05-17,Missouri,29,11069,601,Sunday
 2020-05-17,Montana,30,468,16,Sunday
 2020-05-17,Nebraska,31,10348,129,Sunday
 2020-05-17,Nevada,32,6935,350,Sunday
@@ -4219,7 +4219,7 @@ date,state,fips,cases,deaths,weekday
 2020-05-18,Michigan,26,51853,4915,Monday
 2020-05-18,Minnesota,27,16381,740,Monday
 2020-05-18,Mississippi,28,11432,528,Monday
-2020-05-18,Missouri,29,11225,611,Monday
+2020-05-18,Missouri,29,11225,609,Monday
 2020-05-18,Montana,30,470,16,Monday
 2020-05-18,Nebraska,31,10625,132,Monday
 2020-05-18,Nevada,32,7059,364,Monday
@@ -4274,7 +4274,7 @@ date,state,fips,cases,deaths,weekday
 2020-05-19,Michigan,26,52337,5017,Tuesday
 2020-05-19,Minnesota,27,17038,757,Tuesday
 2020-05-19,Mississippi,28,11704,554,Tuesday
-2020-05-19,Missouri,29,11369,633,Tuesday
+2020-05-19,Missouri,29,11369,631,Tuesday
 2020-05-19,Montana,30,471,16,Tuesday
 2020-05-19,Nebraska,31,10846,136,Tuesday
 2020-05-19,Nevada,32,7169,373,Tuesday
@@ -4329,7 +4329,7 @@ date,state,fips,cases,deaths,weekday
 2020-05-20,Michigan,26,52988,5060,Wednesday
 2020-05-20,Minnesota,27,17679,786,Wednesday
 2020-05-20,Mississippi,28,11967,570,Wednesday
-2020-05-20,Missouri,29,11510,645,Wednesday
+2020-05-20,Missouri,29,11510,643,Wednesday
 2020-05-20,Montana,30,478,16,Wednesday
 2020-05-20,Nebraska,31,11119,141,Wednesday
 2020-05-20,Nevada,32,7301,378,Wednesday
@@ -4384,7 +4384,7 @@ date,state,fips,cases,deaths,weekday
 2020-05-21,Michigan,26,53468,5129,Thursday
 2020-05-21,Minnesota,27,18209,818,Thursday
 2020-05-21,Mississippi,28,12222,580,Thursday
-2020-05-21,Missouri,29,11657,671,Thursday
+2020-05-21,Missouri,29,11657,670,Thursday
 2020-05-21,Montana,30,479,16,Thursday
 2020-05-21,Nebraska,31,11424,148,Thursday
 2020-05-21,Nevada,32,7402,381,Thursday
@@ -4439,7 +4439,7 @@ date,state,fips,cases,deaths,weekday
 2020-05-22,Michigan,26,53865,5158,Friday
 2020-05-22,Minnesota,27,19014,851,Friday
 2020-05-22,Mississippi,28,12624,596,Friday
-2020-05-22,Missouri,29,11797,681,Friday
+2020-05-22,Missouri,29,11797,680,Friday
 2020-05-22,Montana,30,479,16,Friday
 2020-05-22,Nebraska,31,11662,149,Friday
 2020-05-22,Nevada,32,7531,387,Friday
@@ -4468,3 +4468,388 @@ date,state,fips,cases,deaths,weekday
 2020-05-22,West Virginia,54,1705,72,Friday
 2020-05-22,Wisconsin,55,14557,496,Friday
 2020-05-22,Wyoming,56,803,12,Friday
+2020-05-23,Alabama,01,14149,549,Saturday
+2020-05-23,Alaska,02,409,8,Saturday
+2020-05-23,Arizona,04,16040,799,Saturday
+2020-05-23,Arkansas,05,5775,115,Saturday
+2020-05-23,California,06,92815,3768,Saturday
+2020-05-23,Colorado,08,23932,1327,Saturday
+2020-05-23,Connecticut,09,40022,3675,Saturday
+2020-05-23,Delaware,10,8690,324,Saturday
+2020-05-23,District of Columbia,11,7966,427,Saturday
+2020-05-23,Florida,12,50119,2232,Saturday
+2020-05-23,Georgia,13,40408,1794,Saturday
+2020-05-23,Guam,66,1134,6,Saturday
+2020-05-23,Hawaii,15,633,17,Saturday
+2020-05-23,Idaho,16,2626,79,Saturday
+2020-05-23,Illinois,17,108100,4817,Saturday
+2020-05-23,Indiana,18,31674,1964,Saturday
+2020-05-23,Iowa,19,16898,446,Saturday
+2020-05-23,Kansas,20,9119,200,Saturday
+2020-05-23,Kentucky,21,8812,399,Saturday
+2020-05-23,Louisiana,22,37165,2683,Saturday
+2020-05-23,Maine,23,2013,77,Saturday
+2020-05-23,Maryland,24,45608,2243,Saturday
+2020-05-23,Massachusetts,25,91662,6304,Saturday
+2020-05-23,Michigan,26,54304,5223,Saturday
+2020-05-23,Minnesota,27,19854,861,Saturday
+2020-05-23,Mississippi,28,13005,616,Saturday
+2020-05-23,Missouri,29,11922,685,Saturday
+2020-05-23,Montana,30,479,16,Saturday
+2020-05-23,Nebraska,31,11989,150,Saturday
+2020-05-23,Nevada,32,7769,392,Saturday
+2020-05-23,New Hampshire,33,4089,208,Saturday
+2020-05-23,New Jersey,34,153104,11081,Saturday
+2020-05-23,New Mexico,35,6795,308,Saturday
+2020-05-23,New York,36,364745,28900,Saturday
+2020-05-23,North Carolina,37,22731,763,Saturday
+2020-05-23,North Dakota,38,2365,52,Saturday
+2020-05-23,Northern Mariana Islands,69,22,2,Saturday
+2020-05-23,Ohio,39,31408,1956,Saturday
+2020-05-23,Oklahoma,40,5960,311,Saturday
+2020-05-23,Oregon,41,3888,147,Saturday
+2020-05-23,Pennsylvania,42,71102,5121,Saturday
+2020-05-23,Puerto Rico,72,3100,127,Saturday
+2020-05-23,Rhode Island,44,13952,597,Saturday
+2020-05-23,South Carolina,45,9895,425,Saturday
+2020-05-23,South Dakota,46,4468,50,Saturday
+2020-05-23,Tennessee,47,19765,325,Saturday
+2020-05-23,Texas,48,55386,1522,Saturday
+2020-05-23,Utah,49,8260,97,Saturday
+2020-05-23,Vermont,50,954,54,Saturday
+2020-05-23,Virgin Islands,78,69,6,Saturday
+2020-05-23,Virginia,51,35749,1159,Saturday
+2020-05-23,Washington,53,20487,1062,Saturday
+2020-05-23,West Virginia,54,1729,72,Saturday
+2020-05-23,Wisconsin,55,14985,507,Saturday
+2020-05-23,Wyoming,56,813,12,Saturday
+2020-05-24,Alabama,01,14478,551,Sunday
+2020-05-24,Alaska,02,409,8,Sunday
+2020-05-24,Arizona,04,16339,800,Sunday
+2020-05-24,Arkansas,05,5922,116,Sunday
+2020-05-24,California,06,94743,3790,Sunday
+2020-05-24,Colorado,08,24140,1332,Sunday
+2020-05-24,Connecticut,09,40468,3693,Sunday
+2020-05-24,Delaware,10,8809,326,Sunday
+2020-05-24,District of Columbia,11,8110,432,Sunday
+2020-05-24,Florida,12,50859,2236,Sunday
+2020-05-24,Georgia,13,40989,1799,Sunday
+2020-05-24,Guam,66,1135,6,Sunday
+2020-05-24,Hawaii,15,633,17,Sunday
+2020-05-24,Idaho,16,2650,79,Sunday
+2020-05-24,Illinois,17,110541,4884,Sunday
+2020-05-24,Indiana,18,32151,1976,Sunday
+2020-05-24,Iowa,19,17434,456,Sunday
+2020-05-24,Kansas,20,9135,200,Sunday
+2020-05-24,Kentucky,21,8842,399,Sunday
+2020-05-24,Louisiana,22,37293,2690,Sunday
+2020-05-24,Maine,23,2055,78,Sunday
+2020-05-24,Maryland,24,46919,2277,Sunday
+2020-05-24,Massachusetts,25,92675,6372,Sunday
+2020-05-24,Michigan,26,54616,5228,Sunday
+2020-05-24,Minnesota,27,20582,878,Sunday
+2020-05-24,Mississippi,28,13252,625,Sunday
+2020-05-24,Missouri,29,12114,689,Sunday
+2020-05-24,Montana,30,479,16,Sunday
+2020-05-24,Nebraska,31,12134,153,Sunday
+2020-05-24,Nevada,32,7886,394,Sunday
+2020-05-24,New Hampshire,33,4149,209,Sunday
+2020-05-24,New Jersey,34,154154,11133,Sunday
+2020-05-24,New Mexico,35,6943,317,Sunday
+2020-05-24,New York,36,366346,29046,Sunday
+2020-05-24,North Carolina,37,23231,771,Sunday
+2020-05-24,North Dakota,38,2418,53,Sunday
+2020-05-24,Northern Mariana Islands,69,22,2,Sunday
+2020-05-24,Ohio,39,31911,1969,Sunday
+2020-05-24,Oklahoma,40,6037,311,Sunday
+2020-05-24,Oregon,41,3927,148,Sunday
+2020-05-24,Pennsylvania,42,71656,5145,Sunday
+2020-05-24,Puerto Rico,72,3189,127,Sunday
+2020-05-24,Rhode Island,44,14065,608,Sunday
+2020-05-24,South Carolina,45,10096,435,Sunday
+2020-05-24,South Dakota,46,4563,50,Sunday
+2020-05-24,Tennessee,47,20116,332,Sunday
+2020-05-24,Texas,48,56050,1533,Sunday
+2020-05-24,Utah,49,8392,97,Sunday
+2020-05-24,Vermont,50,956,54,Sunday
+2020-05-24,Virgin Islands,78,69,6,Sunday
+2020-05-24,Virginia,51,36244,1171,Sunday
+2020-05-24,Washington,53,20732,1069,Sunday
+2020-05-24,West Virginia,54,1771,72,Sunday
+2020-05-24,Wisconsin,55,15362,510,Sunday
+2020-05-24,Wyoming,56,813,12,Sunday
+2020-05-25,Alabama,01,14986,566,Monday
+2020-05-25,Alaska,02,412,8,Monday
+2020-05-25,Arizona,04,16561,806,Monday
+2020-05-25,Arkansas,05,6029,117,Monday
+2020-05-25,California,06,97017,3808,Monday
+2020-05-25,Colorado,08,24256,1333,Monday
+2020-05-25,Connecticut,09,40873,3742,Monday
+2020-05-25,Delaware,10,8965,332,Monday
+2020-05-25,District of Columbia,11,8225,440,Monday
+2020-05-25,Florida,12,51738,2251,Monday
+2020-05-25,Georgia,13,41414,1820,Monday
+2020-05-25,Guam,66,1135,6,Monday
+2020-05-25,Hawaii,15,633,17,Monday
+2020-05-25,Idaho,16,2664,79,Monday
+2020-05-25,Illinois,17,112248,4912,Monday
+2020-05-25,Indiana,18,32489,1984,Monday
+2020-05-25,Iowa,19,17628,460,Monday
+2020-05-25,Kansas,20,9272,201,Monday
+2020-05-25,Kentucky,21,8899,403,Monday
+2020-05-25,Louisiana,22,37916,2690,Monday
+2020-05-25,Maine,23,2074,78,Monday
+2020-05-25,Maryland,24,47754,2302,Monday
+2020-05-25,Massachusetts,25,93271,6416,Monday
+2020-05-25,Michigan,26,54816,5240,Monday
+2020-05-25,Minnesota,27,21324,890,Monday
+2020-05-25,Mississippi,28,13458,635,Monday
+2020-05-25,Missouri,29,12296,694,Monday
+2020-05-25,Montana,30,479,16,Monday
+2020-05-25,Nebraska,31,12355,155,Monday
+2020-05-25,Nevada,32,7959,396,Monday
+2020-05-25,New Hampshire,33,4197,210,Monday
+2020-05-25,New Jersey,34,155092,11144,Monday
+2020-05-25,New Mexico,35,7026,320,Monday
+2020-05-25,New York,36,367625,29138,Monday
+2020-05-25,North Carolina,37,23997,780,Monday
+2020-05-25,North Dakota,38,2457,54,Monday
+2020-05-25,Northern Mariana Islands,69,22,2,Monday
+2020-05-25,Ohio,39,32477,1987,Monday
+2020-05-25,Oklahoma,40,6090,313,Monday
+2020-05-25,Oregon,41,3949,148,Monday
+2020-05-25,Pennsylvania,42,72356,5159,Monday
+2020-05-25,Puerto Rico,72,3260,129,Monday
+2020-05-25,Rhode Island,44,14065,608,Monday
+2020-05-25,South Carolina,45,10178,440,Monday
+2020-05-25,South Dakota,46,4586,50,Monday
+2020-05-25,Tennessee,47,20533,334,Monday
+2020-05-25,Texas,48,56490,1536,Monday
+2020-05-25,Utah,49,8521,98,Monday
+2020-05-25,Vermont,50,962,54,Monday
+2020-05-25,Virgin Islands,78,69,6,Monday
+2020-05-25,Virginia,51,37727,1208,Monday
+2020-05-25,Washington,53,21005,1076,Monday
+2020-05-25,West Virginia,54,1782,73,Monday
+2020-05-25,Wisconsin,55,15646,514,Monday
+2020-05-25,Wyoming,56,843,12,Monday
+2020-05-26,Alabama,01,15650,580,Tuesday
+2020-05-26,Alaska,02,416,8,Tuesday
+2020-05-26,Arizona,04,16783,807,Tuesday
+2020-05-26,Arkansas,05,6180,119,Tuesday
+2020-05-26,California,06,99925,3859,Tuesday
+2020-05-26,Colorado,08,24553,1352,Tuesday
+2020-05-26,Connecticut,09,41303,3769,Tuesday
+2020-05-26,Delaware,10,9066,335,Tuesday
+2020-05-26,District of Columbia,11,8334,440,Tuesday
+2020-05-26,Florida,12,52247,2258,Tuesday
+2020-05-26,Georgia,13,42066,1867,Tuesday
+2020-05-26,Guam,66,1139,6,Tuesday
+2020-05-26,Hawaii,15,633,17,Tuesday
+2020-05-26,Idaho,16,2699,81,Tuesday
+2020-05-26,Illinois,17,113486,4960,Tuesday
+2020-05-26,Indiana,18,32856,2004,Tuesday
+2020-05-26,Iowa,19,17999,480,Tuesday
+2020-05-26,Kansas,20,9352,204,Tuesday
+2020-05-26,Kentucky,21,9175,407,Tuesday
+2020-05-26,Louisiana,22,38252,2701,Tuesday
+2020-05-26,Maine,23,2109,79,Tuesday
+2020-05-26,Maryland,24,48290,2333,Tuesday
+2020-05-26,Massachusetts,25,93693,6473,Tuesday
+2020-05-26,Michigan,26,55040,5266,Tuesday
+2020-05-26,Minnesota,27,21969,908,Tuesday
+2020-05-26,Mississippi,28,13731,652,Tuesday
+2020-05-26,Missouri,29,12437,698,Tuesday
+2020-05-26,Montana,30,479,17,Tuesday
+2020-05-26,Nebraska,31,12619,160,Tuesday
+2020-05-26,Nevada,32,8059,396,Tuesday
+2020-05-26,New Hampshire,33,4231,214,Tuesday
+2020-05-26,New Jersey,34,155764,11191,Tuesday
+2020-05-26,New Mexico,35,7130,325,Tuesday
+2020-05-26,New York,36,368669,29241,Tuesday
+2020-05-26,North Carolina,37,24188,789,Tuesday
+2020-05-26,North Dakota,38,2422,54,Tuesday
+2020-05-26,Northern Mariana Islands,69,22,2,Tuesday
+2020-05-26,Ohio,39,33006,2002,Tuesday
+2020-05-26,Oklahoma,40,6137,318,Tuesday
+2020-05-26,Oregon,41,3967,148,Tuesday
+2020-05-26,Pennsylvania,42,72873,5175,Tuesday
+2020-05-26,Puerto Rico,72,3324,129,Tuesday
+2020-05-26,Rhode Island,44,14210,634,Tuesday
+2020-05-26,South Carolina,45,10416,446,Tuesday
+2020-05-26,South Dakota,46,4653,50,Tuesday
+2020-05-26,Tennessee,47,20960,339,Tuesday
+2020-05-26,Texas,48,57573,1552,Tuesday
+2020-05-26,Utah,49,8622,101,Tuesday
+2020-05-26,Vermont,50,967,54,Tuesday
+2020-05-26,Virgin Islands,78,69,6,Tuesday
+2020-05-26,Virginia,51,39342,1236,Tuesday
+2020-05-26,Washington,53,21278,1091,Tuesday
+2020-05-26,West Virginia,54,1854,74,Tuesday
+2020-05-26,Wisconsin,55,15923,517,Tuesday
+2020-05-26,Wyoming,56,850,13,Tuesday
+2020-05-27,Alabama,01,16032,583,Wednesday
+2020-05-27,Alaska,02,417,8,Wednesday
+2020-05-27,Arizona,04,17262,831,Wednesday
+2020-05-27,Arkansas,05,6277,120,Wednesday
+2020-05-27,California,06,101874,3961,Wednesday
+2020-05-27,Colorado,08,24775,1393,Wednesday
+2020-05-27,Connecticut,09,41288,3803,Wednesday
+2020-05-27,Delaware,10,9096,344,Wednesday
+2020-05-27,District of Columbia,11,8406,445,Wednesday
+2020-05-27,Florida,12,52626,2318,Wednesday
+2020-05-27,Georgia,13,42713,1904,Wednesday
+2020-05-27,Guam,66,1140,6,Wednesday
+2020-05-27,Hawaii,15,634,17,Wednesday
+2020-05-27,Idaho,16,2731,82,Wednesday
+2020-05-27,Illinois,17,114612,5118,Wednesday
+2020-05-27,Indiana,18,33242,2030,Wednesday
+2020-05-27,Iowa,19,18446,496,Wednesday
+2020-05-27,Kansas,20,9453,207,Wednesday
+2020-05-27,Kentucky,21,9313,420,Wednesday
+2020-05-27,Louisiana,22,38694,2722,Wednesday
+2020-05-27,Maine,23,2137,81,Wednesday
+2020-05-27,Maryland,24,49042,2392,Wednesday
+2020-05-27,Massachusetts,25,94220,6547,Wednesday
+2020-05-27,Michigan,26,55544,5334,Wednesday
+2020-05-27,Minnesota,27,22474,942,Wednesday
+2020-05-27,Mississippi,28,14044,670,Wednesday
+2020-05-27,Missouri,29,12624,705,Wednesday
+2020-05-27,Montana,30,481,17,Wednesday
+2020-05-27,Nebraska,31,12976,168,Wednesday
+2020-05-27,Nevada,32,8150,402,Wednesday
+2020-05-27,New Hampshire,33,4286,223,Wednesday
+2020-05-27,New Jersey,34,156628,11339,Wednesday
+2020-05-27,New Mexico,35,7252,329,Wednesday
+2020-05-27,New York,36,369801,29339,Wednesday
+2020-05-27,North Carolina,37,24787,827,Wednesday
+2020-05-27,North Dakota,38,2442,59,Wednesday
+2020-05-27,Northern Mariana Islands,69,22,2,Wednesday
+2020-05-27,Ohio,39,33439,2044,Wednesday
+2020-05-27,Oklahoma,40,6229,322,Wednesday
+2020-05-27,Oregon,41,4038,148,Wednesday
+2020-05-27,Pennsylvania,42,73646,5290,Wednesday
+2020-05-27,Puerto Rico,72,3397,129,Wednesday
+2020-05-27,Rhode Island,44,14353,655,Wednesday
+2020-05-27,South Carolina,45,10623,466,Wednesday
+2020-05-27,South Dakota,46,4710,54,Wednesday
+2020-05-27,Tennessee,47,21360,353,Wednesday
+2020-05-27,Texas,48,59075,1598,Wednesday
+2020-05-27,Utah,49,8710,105,Wednesday
+2020-05-27,Vermont,50,971,54,Wednesday
+2020-05-27,Virgin Islands,78,69,6,Wednesday
+2020-05-27,Virginia,51,40249,1281,Wednesday
+2020-05-27,Washington,53,21565,1106,Wednesday
+2020-05-27,West Virginia,54,1899,74,Wednesday
+2020-05-27,Wisconsin,55,16565,539,Wednesday
+2020-05-27,Wyoming,56,860,14,Wednesday
+2020-05-28,Alabama,01,16530,591,Thursday
+2020-05-28,Alaska,02,430,8,Thursday
+2020-05-28,Arizona,04,17763,857,Thursday
+2020-05-28,Arkansas,05,6538,125,Thursday
+2020-05-28,California,06,104071,4042,Thursday
+2020-05-28,Colorado,08,25116,1422,Thursday
+2020-05-28,Connecticut,09,41559,3826,Thursday
+2020-05-28,Delaware,10,9171,345,Thursday
+2020-05-28,District of Columbia,11,8492,453,Thursday
+2020-05-28,Florida,12,53277,2363,Thursday
+2020-05-28,Georgia,13,43363,1942,Thursday
+2020-05-28,Guam,66,1141,6,Thursday
+2020-05-28,Hawaii,15,637,17,Thursday
+2020-05-28,Idaho,16,2770,82,Thursday
+2020-05-28,Illinois,17,116128,5225,Thursday
+2020-05-28,Indiana,18,33885,2068,Thursday
+2020-05-28,Iowa,19,18672,510,Thursday
+2020-05-28,Kansas,20,9512,209,Thursday
+2020-05-28,Kentucky,21,9510,424,Thursday
+2020-05-28,Louisiana,22,38907,2740,Thursday
+2020-05-28,Maine,23,2189,84,Thursday
+2020-05-28,Maryland,24,50334,2428,Thursday
+2020-05-28,Massachusetts,25,94895,6640,Thursday
+2020-05-28,Michigan,26,55944,5372,Thursday
+2020-05-28,Minnesota,27,22957,977,Thursday
+2020-05-28,Mississippi,28,14372,693,Thursday
+2020-05-28,Missouri,29,12815,715,Thursday
+2020-05-28,Montana,30,485,17,Thursday
+2020-05-28,Nebraska,31,13261,170,Thursday
+2020-05-28,Nevada,32,8247,410,Thursday
+2020-05-28,New Hampshire,33,4389,232,Thursday
+2020-05-28,New Jersey,34,157815,11401,Thursday
+2020-05-28,New Mexico,35,7364,335,Thursday
+2020-05-28,New York,36,371559,29438,Thursday
+2020-05-28,North Carolina,37,25616,859,Thursday
+2020-05-28,North Dakota,38,2484,60,Thursday
+2020-05-28,Northern Mariana Islands,69,22,2,Thursday
+2020-05-28,Ohio,39,33915,2098,Thursday
+2020-05-28,Oklahoma,40,6270,326,Thursday
+2020-05-28,Oregon,41,4086,151,Thursday
+2020-05-28,Pennsylvania,42,74312,5397,Thursday
+2020-05-28,Puerto Rico,72,3486,131,Thursday
+2020-05-28,Rhode Island,44,14494,677,Thursday
+2020-05-28,South Carolina,45,10788,470,Thursday
+2020-05-28,South Dakota,46,4793,54,Thursday
+2020-05-28,Tennessee,47,21763,352,Thursday
+2020-05-28,Texas,48,60787,1618,Thursday
+2020-05-28,Utah,49,8953,106,Thursday
+2020-05-28,Vermont,50,974,55,Thursday
+2020-05-28,Virgin Islands,78,69,6,Thursday
+2020-05-28,Virginia,51,41401,1338,Thursday
+2020-05-28,Washington,53,21825,1116,Thursday
+2020-05-28,West Virginia,54,1935,74,Thursday
+2020-05-28,Wisconsin,55,17211,550,Thursday
+2020-05-28,Wyoming,56,876,15,Thursday
+2020-05-29,Alabama,01,17031,610,Friday
+2020-05-29,Alaska,02,436,8,Friday
+2020-05-29,Arizona,04,18465,885,Friday
+2020-05-29,Arkansas,05,6777,132,Friday
+2020-05-29,California,06,107043,4144,Friday
+2020-05-29,Colorado,08,25602,1437,Friday
+2020-05-29,Connecticut,09,41762,3868,Friday
+2020-05-29,Delaware,10,9236,356,Friday
+2020-05-29,District of Columbia,11,8538,460,Friday
+2020-05-29,Florida,12,54489,2412,Friday
+2020-05-29,Georgia,13,43888,1953,Friday
+2020-05-29,Guam,66,1141,6,Friday
+2020-05-29,Hawaii,15,639,17,Friday
+2020-05-29,Idaho,16,2804,82,Friday
+2020-05-29,Illinois,17,117794,5308,Friday
+2020-05-29,Indiana,18,34399,2110,Friday
+2020-05-29,Iowa,19,19019,525,Friday
+2020-05-29,Kansas,20,9826,209,Friday
+2020-05-29,Kentucky,21,9688,434,Friday
+2020-05-29,Louisiana,22,38907,2766,Friday
+2020-05-29,Maine,23,2226,85,Friday
+2020-05-29,Maryland,24,51631,2466,Friday
+2020-05-29,Massachusetts,25,95512,6718,Friday
+2020-05-29,Michigan,26,56589,5406,Friday
+2020-05-29,Minnesota,27,23541,1006,Friday
+2020-05-29,Mississippi,28,14790,710,Friday
+2020-05-29,Missouri,29,12949,740,Friday
+2020-05-29,Montana,30,493,17,Friday
+2020-05-29,Nebraska,31,13654,177,Friday
+2020-05-29,Nevada,32,8375,415,Friday
+2020-05-29,New Hampshire,33,4492,238,Friday
+2020-05-29,New Jersey,34,158844,11531,Friday
+2020-05-29,New Mexico,35,7493,344,Friday
+2020-05-29,New York,36,373108,29535,Friday
+2020-05-29,North Carolina,37,26735,888,Friday
+2020-05-29,North Dakota,38,2523,62,Friday
+2020-05-29,Northern Mariana Islands,69,22,2,Friday
+2020-05-29,Ohio,39,34566,2131,Friday
+2020-05-29,Oklahoma,40,6338,329,Friday
+2020-05-29,Oregon,41,4131,151,Friday
+2020-05-29,Pennsylvania,42,75073,5467,Friday
+2020-05-29,Puerto Rico,72,3647,132,Friday
+2020-05-29,Rhode Island,44,14635,693,Friday
+2020-05-29,South Carolina,45,11131,483,Friday
+2020-05-29,South Dakota,46,4866,59,Friday
+2020-05-29,Tennessee,47,22199,356,Friday
+2020-05-29,Texas,48,62062,1645,Friday
+2020-05-29,Utah,49,9282,107,Friday
+2020-05-29,Vermont,50,975,55,Friday
+2020-05-29,Virgin Islands,78,69,6,Friday
+2020-05-29,Virginia,51,42533,1358,Friday
+2020-05-29,Washington,53,22109,1120,Friday
+2020-05-29,West Virginia,54,1972,74,Friday
+2020-05-29,Wisconsin,55,17784,569,Friday
+2020-05-29,Wyoming,56,891,15,Friday
